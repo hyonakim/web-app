@@ -1,0 +1,40 @@
+#registrationForm {
+  width: 500px;
+  height: 600px;
+  border: 2px solid #C2C2C2;
+  border-radius: 3px;
+  margin: 70px 0 0 400px;
+  position: relative; }
+  #registrationForm .topPortion {
+    height: 65px;
+    background: #5B88C8; }
+  #registrationForm .topPortion h1 {
+    margin-top: 0;
+    padding: 19px 0 0 10px;
+    color: #fff;
+    font-weight: lighter;
+    font-size: 25px;
+    background: #5B88C8; }
+  #registrationForm .input-data {
+    margin-bottom: 20px; }
+    #registrationForm .input-data .input-fields {
+      margin: 10px 0 0 10px;
+      padding: 7px;
+      width: 460px;
+      border: 2px solid #C2C2C2;
+      border-radius: 3px; }
+  #registrationForm .lang-opt {
+    padding: 10px;
+    margin: 20px 0; }
+    #registrationForm .lang-opt .sel-opt {
+      width: 478px;
+      height: 20px; }
+  #registrationForm .bottomPortion {
+    background: #CDDCEF; }
+    #registrationForm .bottomPortion button {
+      padding: 10px;
+      margin: 20px 0 18px 10px;
+      border: 1px solid #4F7CC3;
+      border-radius: 3px;
+      background: #5B88C8;
+      color: #fff; }
